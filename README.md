@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jatinsuthar0711 (Jatin Suthar)  
 - 👀 I’m interested in robotics, artificial intelligence, and sustainable technology  
-- 🌱 I’m currently learning Python, AI, and robotics fundamentals while studying in Class 10  
+- 🌱 I’m currently learning Python, AI, and robotics fundamentals while studying in Class 11(2026-27)  
 - 💞️ I’m looking to collaborate on beginner-friendly robotics or AI projects that aim to create a positive impact on society  
 - 📫 How to reach me: [Instagram](https://www.instagram.com/jatinsuthar.7?igsh=MXdlYmtpNzF1eHJmNw==)  
 - 😄 Pronouns: He/Him  
